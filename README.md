@@ -12,5 +12,5 @@ del
 
 ```
 
-`#0969DA`
+`#0969DA erje`
 [**Telegram**](http://t.me/ALI478QWE)
