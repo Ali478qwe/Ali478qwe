@@ -29,3 +29,6 @@ fgjfndvbhhjj
 
 [^1]: p 46ivg
 [^2]: ryvg8i8
+
+>[!Tip]
+>fgjythyyhjj
