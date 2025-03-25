@@ -4,7 +4,7 @@
 
 git `open` command
 ```
-open 
+open `#00ff00`
 
 kill 
 
