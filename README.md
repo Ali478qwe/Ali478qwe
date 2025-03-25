@@ -25,4 +25,4 @@ fgjfndvbhhjj
 
 - [X] \()#68
 - [x] hkkk 69
-- [x] ghjoo :tada:
+- [x] ghjoo :tada: :octocat:
