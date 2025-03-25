@@ -23,6 +23,6 @@ fgjfndvbhhjj
    + B
      + C
 
-- [X] #68
+- [X] \()#68
 - [x] hkkk 69
 - [x] ghjoo :tada:
