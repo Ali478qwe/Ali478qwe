@@ -14,7 +14,7 @@
 
 ## __Favorites__
 
-+Iot
+-Iot
 +Api
 +Web design
 +Ai
