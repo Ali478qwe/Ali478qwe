@@ -1,8 +1,8 @@
 # ALI478QWE | </> 
 
-> The Skills 
+> The Skills [^2]
 
-git `open` command
+git `open` command[^1]
 ```
 open 
 
