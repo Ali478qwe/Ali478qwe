@@ -11,3 +11,8 @@
 <img src="https://github.com/Ali478qwe/Ali478qwe/blob/887a62a67441d830e7018d688a5a2f8004c3a0ad/Icon/icons8-css-logo.svg">
 <img src="https://github.com/Ali478qwe/Ali478qwe/blob/5e5954837f6c7c4108c8c84bd32c7304bbdac5f0/Icon/icons8-php-logo%20(1).svg">
 </p>
+
+
+## __Social Media__
+
+[__Telegram__](http://t.me/ALI478QWE)
