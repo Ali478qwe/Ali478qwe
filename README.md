@@ -25,4 +25,4 @@ fgjfndvbhhjj
 
 - [×] #68
 - [ ] hkkk 69
-- [] ghjoo :tada:
+- [ ] ghjoo :tada:
