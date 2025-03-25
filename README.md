@@ -14,6 +14,14 @@
 
 ## __Favorites__
 
++Iot
++Api
++Web design
++Ai
++Creative projects
++Microprocess programming
+
+
 ## __Social Media__
 
 [__Telegram__](http://t.me/ALI478QWE)
