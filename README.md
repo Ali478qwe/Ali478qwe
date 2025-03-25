@@ -19,6 +19,6 @@ These examples
 
 fgjfndvbhhjj
 
-+ A
-+ B
-+ C
+1. A
+   + B
+     + C
