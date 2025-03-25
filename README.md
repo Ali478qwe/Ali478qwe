@@ -4,10 +4,11 @@
 
 git `open` command
 ```
-open `#000000`
+open 
 
 kill 
 
 del
 
 ```
+`#0969DA`
