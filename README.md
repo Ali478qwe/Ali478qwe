@@ -15,10 +15,15 @@
 ## __Favorites__
 
 -Iot
+
 +Api
+
 +Web design
+
 +Ai
+
 +Creative projects
+
 +Microprocess programming
 
 
