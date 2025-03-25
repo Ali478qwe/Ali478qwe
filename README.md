@@ -14,17 +14,17 @@
 
 ## __Favorites__
 
--Iot
+* Iot
 
-+Api
+* Api
 
-+Web design
+* Web design
 
-+Ai
+* Ai
 
-+Creative projects
+* Creative projects
 
-+Microprocess programming
+* Microprocess programming
 
 
 ## __Social Media__
