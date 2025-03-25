@@ -1,6 +1,6 @@
 # ALI478QWE | </> 
 :octocat:I'm a free programmer :tada: 
- ## __My Skills__ `#00ff00`
+ ## __My Skills__ 
 
 <p align="center">
 <img src="https://github.com/Ali478qwe/Ali478qwe/blob/561058b955480f0ab1180fe76a0408eaeb76a715/Icon/javascript-logo-svgrepo-com.svg">
