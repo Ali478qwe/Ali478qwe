@@ -20,5 +20,5 @@ These examples
 fgjfndvbhhjj
 
 + A
-* B
-- C
++ B
++ C
