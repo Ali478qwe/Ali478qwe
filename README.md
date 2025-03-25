@@ -24,5 +24,5 @@ fgjfndvbhhjj
      + C
 
 - [X] #68
-- [ ] hkkk 69
-- [ ] ghjoo :tada:
+- [x] hkkk 69
+- [x] ghjoo :tada:
