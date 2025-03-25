@@ -16,5 +16,5 @@ del
 [**Telegram**](http://t.me/ALI478QWE)
 
 These examples
-//
+
 fgjfndvbhhjj
