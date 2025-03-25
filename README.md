@@ -1,3 +1,5 @@
+![baner](https://github.com/Ali478qwe/Ali478qwe/blob/e6312fbd7906cb2605dcbfec8f1748e693589313/Icon/InShot_20250325_204154963.jpg)
+
 # ALI478QWE | </> 
 :octocat:I'm a free programmer :tada: 
  ## __My Skills__ 
